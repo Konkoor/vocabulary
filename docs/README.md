@@ -1,1 +1,1 @@
-# [https://konkoor.github.io/vocabulary](Vocabulary)
+# [Vocabulary](https://konkoor.github.io/vocabulary)
